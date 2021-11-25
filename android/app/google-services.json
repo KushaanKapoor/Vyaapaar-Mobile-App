@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464911489636",
+    "firebase_url": "https://vyaapaar-db34f.firebaseio.com",
+    "project_id": "vyaapaar-db34f",
+    "storage_bucket": "vyaapaar-db34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464911489636:android:2e266cb710845492ea1d71",
+        "android_client_info": {
+          "package_name": "com.vyaapaar.vyaapaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464911489636-tbnks58pfb7che29fb4f9tr22l4eolhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXaz91RvhazCgwEU5WyMveTHxlZFp1p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464911489636-tbnks58pfb7che29fb4f9tr22l4eolhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
